@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **madhavipasupuleti8020@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/drive/folders/189pJHgyxo85VtvGyC5AJtdkcbvcslD4I?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1VzKb5G-lQCI6NyghjoY9IBiKcfGCAZXx/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
