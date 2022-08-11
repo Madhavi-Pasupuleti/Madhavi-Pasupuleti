@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhavi Pasupuleti</h1>
 <h3 align="center">Passionate frontend developer Determined in building beautiful and user-centric applications.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Bootstrap**
 
 - 📫 How to reach me **madhavipasupuleti8020@gmail.com**
 
